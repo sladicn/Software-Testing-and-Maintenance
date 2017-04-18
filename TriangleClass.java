@@ -3,15 +3,9 @@ package triangle;
 public class TriangleClass 
 {
 
-    public static String triangle(double firstSide, double secondSide, double thirdSide) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
     private double firstTriangleSide;
     private double secondTriangleSide;
     private double thirdTriangleSide;
-    private double firstTriangleAngleSide;
-    private double secondTriangleAngleSide;
-    private double thirdTriangleAngleSide;
     
     public TriangleClass( )
     {
